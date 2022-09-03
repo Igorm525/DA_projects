@@ -1,6 +1,6 @@
 # DA_projects
 
-### [AA test](https://github.com/Igorm525/DA_projects/blob/main/5_1_AA_test.ipynb) 
+[AA test](https://github.com/Igorm525/DA_projects/blob/main/5_1_AA_test.ipynb) 
 [AB test](https://github.com/Igorm525/DA_projects/blob/main/5_2_AB_test.ipynb) 
 [AB test linearized](https://github.com/Igorm525/DA_projects/blob/main/5_3_AB_test_linearized.ipynb)
 Проведение А/A и А/B тестов.
