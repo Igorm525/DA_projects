@@ -7,4 +7,4 @@
 
  [salaries_in_DS](https://github.com/Igorm525/DA_projects/blob/main/salaries_in_DS.ipynb) Анализ данных по зарплатам в области Data Science
  
- [house_rent_prediction](https://github.com/Igorm525/DA_projects/blob/main/house_rent_prediction.ipynb) Анализ данных по арендной плате и регрессионный анализ
+ [house_rent_prediction](https://github.com/Igorm525/DA_projects/blob/main/house_rent_prediction.ipynb) Анализ данных по арендной плате и построение регрессионных моделей
